@@ -12,7 +12,7 @@ const Hero = () => {
     const { data: totalMinted, isLoading: totalMintedLoading } = useContractRead(contract, "totalMinted")
 
     function handleIncrement() {
-        setCount(count >= 49 ? 49 : count + 1);
+        setCount(count >= 1 ? 1 : count + 1);
     }
 
     function handleDecrement() {
