@@ -65,14 +65,14 @@ const Hero = () => {
                             transition={{ type: "tween", duration: 1 }}
                             initial={{ x: -500 }}
                             className='text-7xl font-extrabold my-5'>
-                            World of Pots?
+                            World of Ducks?
                         </motion.h1>
                         <motion.h1
                             whileInView={{ x: 0 }}
                             transition={{ type: "tween", duration: 1 }}
                             initial={{ x: -500 }}
                             className='text-2xl font-thin mt-5 mb-2'>
-                            Grab your pot now:
+                            Grab your Duck now:
                         </motion.h1>
                         <div className="flex py-2 space-x-5 items-center">
                             <svg onClick={handleDecrement} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-10 h-10 cursor-pointer">
@@ -97,7 +97,7 @@ const Hero = () => {
                             whileInView={{ scale: 1, rotate: 0 }}
                             whileHover={{ scale: 0.7, rotate: 30 }}
                             className="flex">
-                            <img src="https://gateway.ipfscdn.io/ipfs/QmbkG4FUyjVsc3PipRrfcocDnyovufLVxgK7pNuL7SWUYk/12" alt="NFT Image"
+                            <img src="https://bafybeib4qoidyknwvhs2qjkkcwn7jc5snkltr35sfdzidu3ngvybc23r34.ipfs.nftstorage.link/230.png" alt="NFT Image"
                                 className='w-[350px] rounded-md mr-[100px]'
                             />
                         </motion.div>
@@ -123,7 +123,7 @@ const Hero = () => {
                     <h1 className="text-3xl font-bold p-5">Are You Ready To Enter The World Of Pots?</h1>
                     <p className="text-xl font-thin p-5 text-center">Grab your pot now:</p>
                     <div className="flex justify-center">
-                        <img src="https://gateway.ipfscdn.io/ipfs/QmbkG4FUyjVsc3PipRrfcocDnyovufLVxgK7pNuL7SWUYk/12" alt="NFT Image"
+                        <img src="https://bafybeib4qoidyknwvhs2qjkkcwn7jc5snkltr35sfdzidu3ngvybc23r34.ipfs.nftstorage.link/759.png" alt="NFT Image"
                             className='w-[250px] rounded-md'
                         />
                     </div>

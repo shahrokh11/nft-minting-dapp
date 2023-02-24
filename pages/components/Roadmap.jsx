@@ -17,7 +17,7 @@ const Roadmap = () => {
                 initial={{ scale: 0 }}
                 className='md:w-[800px] text-center'>
                 <div className="flex items-center justify-center">
-                    <img src="https://gateway.ipfscdn.io/ipfs/QmbkG4FUyjVsc3PipRrfcocDnyovufLVxgK7pNuL7SWUYk/23" alt="Pots"
+                    <img src="https://bafybeib4qoidyknwvhs2qjkkcwn7jc5snkltr35sfdzidu3ngvybc23r34.ipfs.nftstorage.link/266.png" alt="Pots"
                         className='w-[35px] h-[35px] rounded-full' />
                     <h2 className="text-3xl font-bold underline p-2">Phase 1</h2>
                 </div>
@@ -29,7 +29,7 @@ const Roadmap = () => {
                 initial={{ scale: 0 }}
                 className='md:w-[800px] text-center'>
                 <div className="flex items-center justify-center">
-                    <img src="https://gateway.ipfscdn.io/ipfs/QmbkG4FUyjVsc3PipRrfcocDnyovufLVxgK7pNuL7SWUYk/24" alt="Pots"
+                    <img src="https://bafybeib4qoidyknwvhs2qjkkcwn7jc5snkltr35sfdzidu3ngvybc23r34.ipfs.nftstorage.link/94.png" alt="Pots"
                         className='w-[35px] h-[35px] rounded-full' />
                     <h2 className="text-3xl font-bold underline p-2">Phase 2</h2>
                 </div>
@@ -41,7 +41,7 @@ const Roadmap = () => {
                 initial={{ scale: 0 }}
                 className='md:w-[800px] text-center'>
                 <div className="flex items-center justify-center">
-                    <img src="https://gateway.ipfscdn.io/ipfs/QmbkG4FUyjVsc3PipRrfcocDnyovufLVxgK7pNuL7SWUYk/25" alt="Pots"
+                    <img src="https://bafybeib4qoidyknwvhs2qjkkcwn7jc5snkltr35sfdzidu3ngvybc23r34.ipfs.nftstorage.link/35.png" alt="Pots"
                         className='w-[35px] h-[35px] rounded-full' />
                     <h2 className="text-3xl font-bold underline p-2">Phase 3</h2>
                 </div>
@@ -53,7 +53,7 @@ const Roadmap = () => {
                 initial={{ scale: 0 }}
                 className='md:w-[800px] text-center'>
                 <div className="flex items-center justify-center">
-                    <img src="https://gateway.ipfscdn.io/ipfs/QmbkG4FUyjVsc3PipRrfcocDnyovufLVxgK7pNuL7SWUYk/26" alt="Pots"
+                    <img src="https://bafybeib4qoidyknwvhs2qjkkcwn7jc5snkltr35sfdzidu3ngvybc23r34.ipfs.nftstorage.link/318.png" alt="Pots"
                         className='w-[35px] h-[35px] rounded-full' />
                     <h2 className="text-3xl font-bold underline p-2">Phase 4</h2>
                 </div>

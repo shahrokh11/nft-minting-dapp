@@ -10,7 +10,7 @@ const Navbar = () => {
     return (
         <div name="navbar" className="flex justify-between pt-2 items-center text-white fixed w-full">
             <Link to="hero" smooth={true} duration={500}>
-                <img src="https://gateway.ipfscdn.io/ipfs/QmbkG4FUyjVsc3PipRrfcocDnyovufLVxgK7pNuL7SWUYk/13" alt="NFT Image"
+                <img src="https://bafybeib4qoidyknwvhs2qjkkcwn7jc5snkltr35sfdzidu3ngvybc23r34.ipfs.nftstorage.link/267.png" alt="NFT Image"
                     className='w-[50px] rounded-full ml-5 cursor-pointer md:mr-[100px]' />
             </Link>
             <ul className="hidden md:flex space-x-20 mr-8 text-2xl font-bold cursor-pointer">

@@ -25,7 +25,7 @@ export default function Home() {
 
       <footer className="bg-slate-900 text-white text-center font-semibold py-3">
         <div>
-          <p>All Rights Reserved © Pots NFT, 2023.</p>
+          <p>All Rights Reserved © Duck NFT, 2023.</p>
         </div>
       </footer>
     </div>

@@ -11,11 +11,11 @@ const Team = () => {
                     initial={{ scale: 1, y: 200 }}
                     whileInView={{ y: 0 }}
                     className="text-center">
-                    <img src="https://gateway.ipfscdn.io/ipfs/QmbkG4FUyjVsc3PipRrfcocDnyovufLVxgK7pNuL7SWUYk/70" alt="Founder"
+                    <img src="https://bafybeib4qoidyknwvhs2qjkkcwn7jc5snkltr35sfdzidu3ngvybc23r34.ipfs.nftstorage.link/3441.png" alt="Founder"
                         className="w-[200px] rounded-full"
                     />
-                    <p>Alice</p>
-                    <p>Founder, Pots</p>
+                    <p>Mrshahiii</p>
+                    <p>Founder, Duck</p>
                 </motion.div>
                 <motion.div
                     whileHover={{ scale: 1.1 }}
@@ -23,11 +23,11 @@ const Team = () => {
                     initial={{ scale: 1, y: 200 }}
                     whileInView={{ y: 0 }}
                     className="text-center">
-                    <img src="https://gateway.ipfscdn.io/ipfs/QmbkG4FUyjVsc3PipRrfcocDnyovufLVxgK7pNuL7SWUYk/71" alt="Founder"
+                    <img src="https://bafybeib4qoidyknwvhs2qjkkcwn7jc5snkltr35sfdzidu3ngvybc23r34.ipfs.nftstorage.link/9699.png" alt="Founder"
                         className="w-[200px] rounded-full"
                     />
-                    <p>Bob</p>
-                    <p>Lead Design, Pots</p>
+                    <p>James</p>
+                    <p>Lead Design, Duck</p>
                 </motion.div>
                 <motion.div
                     whileHover={{ scale: 1.1 }}
@@ -35,11 +35,11 @@ const Team = () => {
                     initial={{ scale: 1, y: 200 }}
                     whileInView={{ y: 0 }}
                     className="text-center">
-                    <img src="https://gateway.ipfscdn.io/ipfs/QmbkG4FUyjVsc3PipRrfcocDnyovufLVxgK7pNuL7SWUYk/72" alt="Founder"
+                    <img src="https://bafybeib4qoidyknwvhs2qjkkcwn7jc5snkltr35sfdzidu3ngvybc23r34.ipfs.nftstorage.link/3494.png" alt="Founder"
                         className="w-[200px] rounded-full"
                     />
-                    <p>Clark</p>
-                    <p>Blockchain Dev, Pots</p>
+                    <p>Andrew</p>
+                    <p>Blockchain Dev, Duck</p>
                 </motion.div>
                 <motion.div
                     whileHover={{ scale: 1.1 }}
@@ -47,11 +47,11 @@ const Team = () => {
                     initial={{ scale: 1, y: 200 }}
                     whileInView={{ y: 0 }}
                     className="text-center">
-                    <img src="https://gateway.ipfscdn.io/ipfs/QmbkG4FUyjVsc3PipRrfcocDnyovufLVxgK7pNuL7SWUYk/73" alt="Founder"
+                    <img src="https://bafybeib4qoidyknwvhs2qjkkcwn7jc5snkltr35sfdzidu3ngvybc23r34.ipfs.nftstorage.link/949.png" alt="Founder"
                         className="w-[200px] rounded-full"
                     />
                     <p>Diana</p>
-                    <p>Lead Animator, Pots</p>
+                    <p>Lead Animator, Duck</p>
                 </motion.div>
 
             </div>
@@ -62,11 +62,11 @@ const Team = () => {
                     initial={{ scale: 1, y: -200 }}
                     whileInView={{ y: 0 }}
                     className="text-center">
-                    <img src="https://gateway.ipfscdn.io/ipfs/QmbkG4FUyjVsc3PipRrfcocDnyovufLVxgK7pNuL7SWUYk/80" alt="Founder"
+                    <img src="https://bafybeib4qoidyknwvhs2qjkkcwn7jc5snkltr35sfdzidu3ngvybc23r34.ipfs.nftstorage.link/479.png" alt="Founder"
                         className="w-[200px] rounded-full"
                     />
-                    <p>Eva</p>
-                    <p>Marketing Manager, Pots</p>
+                    <p>Emily</p>
+                    <p>Marketing Manager, Duck</p>
                 </motion.div>
                 <motion.div
                     whileHover={{ scale: 1.1 }}
@@ -74,11 +74,11 @@ const Team = () => {
                     initial={{ scale: 1, y: -200 }}
                     whileInView={{ y: 0 }}
                     className="text-center">
-                    <img src="https://gateway.ipfscdn.io/ipfs/QmbkG4FUyjVsc3PipRrfcocDnyovufLVxgK7pNuL7SWUYk/75" alt="Founder"
+                    <img src="https://bafybeib4qoidyknwvhs2qjkkcwn7jc5snkltr35sfdzidu3ngvybc23r34.ipfs.nftstorage.link/329.png" alt="Founder"
                         className="w-[200px] rounded-full"
                     />
-                    <p>Faff</p>
-                    <p>Discord Manager, Pots</p>
+                    <p>Victoria</p>
+                    <p>Discord Manager, Duck</p>
                 </motion.div>
                 <motion.div
                     whileHover={{ scale: 1.1 }}
@@ -86,11 +86,11 @@ const Team = () => {
                     initial={{ scale: 1, y: -200 }}
                     whileInView={{ y: 0 }}
                     className="text-center">
-                    <img src="https://gateway.ipfscdn.io/ipfs/QmbkG4FUyjVsc3PipRrfcocDnyovufLVxgK7pNuL7SWUYk/76" alt="Founder"
+                    <img src="https://bafybeib4qoidyknwvhs2qjkkcwn7jc5snkltr35sfdzidu3ngvybc23r34.ipfs.nftstorage.link/529.png" alt="Founder"
                         className="w-[200px] rounded-full"
                     />
                     <p>Gween</p>
-                    <p>Front-End Dev, Pots</p>
+                    <p>Front-End Dev, Duck</p>
                 </motion.div>
                 <motion.div
                     whileHover={{ scale: 1.1 }}
@@ -98,11 +98,11 @@ const Team = () => {
                     initial={{ scale: 1, y: -200 }}
                     whileInView={{ y: 0 }}
                     className="text-center">
-                    <img src="https://gateway.ipfscdn.io/ipfs/QmbkG4FUyjVsc3PipRrfcocDnyovufLVxgK7pNuL7SWUYk/78" alt="Founder"
+                    <img src="https://bafybeib4qoidyknwvhs2qjkkcwn7jc5snkltr35sfdzidu3ngvybc23r34.ipfs.nftstorage.link/78.png" alt="Founder"
                         className="w-[200px] rounded-full"
                     />
                     <p>Harry</p>
-                    <p>Project Lead, Pots</p>
+                    <p>Project Lead, Duck</p>
                 </motion.div>
 
             </div>
@@ -115,44 +115,44 @@ const Team = () => {
                     transition={{ type: "tween", duration: 1 }}
                     initial={{ scale: 0 }}
                     className="text-center">
-                    <img src="https://gateway.ipfscdn.io/ipfs/QmbkG4FUyjVsc3PipRrfcocDnyovufLVxgK7pNuL7SWUYk/70" alt="Founder"
+                    <img src="https://bafybeib4qoidyknwvhs2qjkkcwn7jc5snkltr35sfdzidu3ngvybc23r34.ipfs.nftstorage.link/3441.png" alt="Founder"
                         className="w-[150px] rounded-full"
                     />
-                    <p>Alice</p>
-                    <p>Founder, Pots</p>
+                    <p>Mrshahiii</p>
+                    <p>Founder, Duck</p>
                 </motion.div>
                 <motion.div
                     whileInView={{ scale: 1 }}
                     transition={{ type: "tween", duration: 1 }}
                     initial={{ scale: 0 }}
                     className="text-center">
-                    <img src="https://gateway.ipfscdn.io/ipfs/QmbkG4FUyjVsc3PipRrfcocDnyovufLVxgK7pNuL7SWUYk/71" alt="Founder"
+                    <img src="https://bafybeib4qoidyknwvhs2qjkkcwn7jc5snkltr35sfdzidu3ngvybc23r34.ipfs.nftstorage.link/9699.png" alt="Founder"
                         className="w-[150px] rounded-full"
                     />
-                    <p>Bob</p>
-                    <p>Lead Design, Pots</p>
+                    <p>James</p>
+                    <p>Lead Design, Duck</p>
                 </motion.div>
                 <motion.div
                     whileInView={{ scale: 1 }}
                     transition={{ type: "tween", duration: 1 }}
                     initial={{ scale: 0 }}
                     className="text-center">
-                    <img src="https://gateway.ipfscdn.io/ipfs/QmbkG4FUyjVsc3PipRrfcocDnyovufLVxgK7pNuL7SWUYk/72" alt="Founder"
+                    <img src="https://bafybeib4qoidyknwvhs2qjkkcwn7jc5snkltr35sfdzidu3ngvybc23r34.ipfs.nftstorage.link/3494.png" alt="Founder"
                         className="w-[150px] rounded-full"
                     />
-                    <p>Clark</p>
-                    <p>Blockchain Dev, Pots</p>
+                    <p>Andrew</p>
+                    <p>Blockchain Dev, Duck</p>
                 </motion.div>
                 <motion.div
                     whileInView={{ scale: 1 }}
                     transition={{ type: "tween", duration: 1 }}
                     initial={{ scale: 0 }}
                     className="text-center">
-                    <img src="https://gateway.ipfscdn.io/ipfs/QmbkG4FUyjVsc3PipRrfcocDnyovufLVxgK7pNuL7SWUYk/73" alt="Founder"
+                    <img src="https://bafybeib4qoidyknwvhs2qjkkcwn7jc5snkltr35sfdzidu3ngvybc23r34.ipfs.nftstorage.link/949.png" alt="Founder"
                         className="w-[150px] rounded-full"
                     />
                     <p>Diana</p>
-                    <p>Lead Animator, Pots</p>
+                    <p>Lead Animator, Duck</p>
                 </motion.div>
             </div>
 
