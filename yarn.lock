@@ -267,9 +267,9 @@
     "near-seed-phrase" "^0.2.0"
 
 "@coinbase/wallet-sdk@^3.0.8":
-  "integrity" "sha512-XUR4poOJE+dKzwBTdlM693CdLFitr046oZOVY3iDnbFcRrrQswhbDji7q4CmUcD4HxbfViX7PFoIwl79YQcukg=="
-  "resolved" "https://registry.npmjs.org/@coinbase/wallet-sdk/-/wallet-sdk-3.6.3.tgz"
-  "version" "3.6.3"
+  "integrity" "sha512-2ecCT0/pmaMNVyMF7J1ZLFTfLnpnrHNQOGyIcbMBIepeqlE3jndjU023OdwwVLrLXyvfyelJ8K1iwAOvyEZxUw=="
+  "resolved" "https://registry.npmjs.org/@coinbase/wallet-sdk/-/wallet-sdk-3.6.4.tgz"
+  "version" "3.6.4"
   dependencies:
     "@metamask/safe-event-emitter" "2.0.0"
     "@solana/web3.js" "^1.70.1"
@@ -278,7 +278,7 @@
     "buffer" "^6.0.3"
     "clsx" "^1.1.0"
     "eth-block-tracker" "4.4.3"
-    "eth-json-rpc-filters" "4.2.2"
+    "eth-json-rpc-filters" "5.1.0"
     "eth-rpc-errors" "4.0.2"
     "json-rpc-engine" "6.1.0"
     "keccak" "^3.0.1"
@@ -3381,6 +3381,17 @@
     "@metamask/safe-event-emitter" "^2.0.0"
     "async-mutex" "^0.2.6"
     "eth-json-rpc-middleware" "^6.0.0"
+    "eth-query" "^2.1.2"
+    "json-rpc-engine" "^6.1.0"
+    "pify" "^5.0.0"
+
+"eth-json-rpc-filters@5.1.0":
+  "integrity" "sha512-fos+9xmoa1A2Ytsc9eYof17r81BjdJOUcGcgZn4K/tKdCCTb+a8ytEtwlu1op5qsXFDlgGmstTELFrDEc89qEQ=="
+  "resolved" "https://registry.npmjs.org/eth-json-rpc-filters/-/eth-json-rpc-filters-5.1.0.tgz"
+  "version" "5.1.0"
+  dependencies:
+    "@metamask/safe-event-emitter" "^2.0.0"
+    "async-mutex" "^0.2.6"
     "eth-query" "^2.1.2"
     "json-rpc-engine" "^6.1.0"
     "pify" "^5.0.0"
