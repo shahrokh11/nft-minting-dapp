@@ -12,7 +12,7 @@ const Hero = () => {
     const { data: totalMinted, isLoading: totalMintedLoading } = useContractRead(contract, "totalMinted")
 
     function handleIncrement() {
-        setCount(count >= 5 ? 5 : count + 1);
+        setCount(count >= 49 ? 49 : count + 1);
     }
 
     function handleDecrement() {
@@ -120,8 +120,8 @@ const Hero = () => {
 
                 {/* Mobile Section  */}
                 <div className='flex flex-col md:hidden'>
-                    <h1 className="text-3xl font-bold p-5">Are You Ready To Enter The World Of Pots?</h1>
-                    <p className="text-xl font-thin p-5 text-center">Grab your pot now:</p>
+                    <h1 className="text-3xl font-bold p-5">Are You Ready To Enter The World Of Monster Ducks?</h1>
+                    <p className="text-xl font-thin p-5 text-center">Grab your Duck now:</p>
                     <div className="flex justify-center">
                         <img src="https://bafybeib4qoidyknwvhs2qjkkcwn7jc5snkltr35sfdzidu3ngvybc23r34.ipfs.nftstorage.link/759.png" alt="NFT Image"
                             className='w-[250px] rounded-md'

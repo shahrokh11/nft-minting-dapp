@@ -18,7 +18,7 @@ const About = () => {
                 initial={{ scale: 0.1 }}
                 whileInView={{ scale: 1 }}
                 className="max-w-[600px] p-5">
-                <h1 className="text-6xl md:text-8xl font-extrabold text-center my-[20px]">About Duck NFT</h1>
+                <h1 className="text-6xl md:text-8xl font-extrabold text-center my-[20px]">About MonsterDuck NFT</h1>
                 <p className='font-thin text-center my-[10px]'>
                 The Monster Duck Collection consists of 10k ducks that have been transformed into mutant ducks due to a mistake in the laboratory...
                 </p>
