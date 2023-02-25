@@ -33,7 +33,7 @@ const Roadmap = () => {
                         className='w-[35px] h-[35px] rounded-full' />
                     <h2 className="text-3xl font-bold underline p-2">Phase 2</h2>
                 </div>
-                <p>Starting mint and receiving 10,000 monster ducks by the community and being listed in the opensea of rarible Blur Market.</p>
+                <p>Starting mint and receiving 10,000 monster ducks by the community and being listed in the opensea of rarible Blur Market and the other...</p>
             </motion.div>
             <motion.div
                 whileInView={{ scale: 1 }}
