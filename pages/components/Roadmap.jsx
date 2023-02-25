@@ -21,7 +21,7 @@ const Roadmap = () => {
                         className='w-[35px] h-[35px] rounded-full' />
                     <h2 className="text-3xl font-bold underline p-2">Phase 1</h2>
                 </div>
-                <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus pariatur quisquam veniam in doloremque corporis commodi, nobis saepe quaerat sequi!</p>
+                <p >Starting to create social media, Twitter, Discord, Instagram, Medium, to be better seen and grow the community</p>
             </motion.div>
             <motion.div
                 whileInView={{ scale: 1 }}
@@ -33,7 +33,7 @@ const Roadmap = () => {
                         className='w-[35px] h-[35px] rounded-full' />
                     <h2 className="text-3xl font-bold underline p-2">Phase 2</h2>
                 </div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus pariatur quisquam veniam in doloremque corporis commodi, nobis saepe quaerat sequi!</p>
+                <p>Starting mint and receiving 10,000 monster ducks by the community and being listed in the opensea of rarible Blur Market.</p>
             </motion.div>
             <motion.div
                 whileInView={{ scale: 1 }}
@@ -45,7 +45,7 @@ const Roadmap = () => {
                         className='w-[35px] h-[35px] rounded-full' />
                     <h2 className="text-3xl font-bold underline p-2">Phase 3</h2>
                 </div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus pariatur quisquam veniam in doloremque corporis commodi, nobis saepe quaerat sequi!</p>
+                <p>Construction of the duck land collection and airdrop to the owners of the monster duck collection</p>
             </motion.div>
             <motion.div
                 whileInView={{ scale: 1 }}
@@ -57,7 +57,7 @@ const Roadmap = () => {
                         className='w-[35px] h-[35px] rounded-full' />
                     <h2 className="text-3xl font-bold underline p-2">Phase 4</h2>
                 </div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus pariatur quisquam veniam in doloremque corporis commodi, nobis saepe quaerat sequi!</p>
+                <p>Community surprise and Roadmap update to the golden version!</p>
             </motion.div>
 
         </div>
